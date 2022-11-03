@@ -10,11 +10,10 @@ HTML | CSS | Javascript | React | Typescript | node.js
 
 ### About Me
 
-- 👩 Junior Software Developer 
+- 👩 Junior Software Developer at BBC Studios
 - 👩‍🎓 Recent Graduate from a full stack developer bootcamp with Boolean UK
 - 📚 Economics and Mathematics BSc (2:1)
-- 🔍 Looking for roles as a Junior Developer
-- 🌱 I’m currently learning Python and C# and am beginning a "task manager" project 
+- 🌱 I’m currently learning Jest and Cypress
 - 💡 I love learning new things and problem solving
 - 🏐 My hobbies are cycling (generally being active), singing and playing piano. 
 
